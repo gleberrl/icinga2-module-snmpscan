@@ -18,11 +18,9 @@ IP:
 
 <div id="caixa1" style="display: none;">
 Community: <select name="COMMUNITY"><br>
-  <option value="cnsede">Sede - cnsede</option>
-  <option value="infraero21ebt">Embratel - infraero21ebt</option>
-  <option value="cn1nfr@CQMRGRC">Embratel - cn1nfr@CQMRGRC</option>
-  <option value="cninfra">Embratel - cninfra</option>
-  <option value="cn1nfr@TNL">OI - cn1nfr@TNL</option>
+  <option value="public">Community1</option>
+  <option value="public1">Community2</option>
+  <option value="public2">Community3</option>
 </select><br><br>
 </div>
 
@@ -63,11 +61,9 @@ IP:
 
 <div id="caixa1" style="display: none;">
 Community: <select name="COMMUNITY"><br>
-  <option value="cnsede">Sede - cnsede</option>
-  <option value="infraero21ebt">Embratel - infraero21ebt</option>
-  <option value="cn1nfr@CQMRGRC">Embratel - cn1nfr@CQMRGRC</option>
-  <option value="cninfra">Embratel - cninfra</option>
-  <option value="cn1nfr@TNL">OI - cn1nfr@TNL</option>
+  <option value="public">Community1</option>
+  <option value="public1">Community2</option>
+  <option value="public2">Community3</option>
 </select><br><br>
 </div>
 
@@ -110,11 +106,9 @@ IP:
 
 <div id="caixa1" style="display: none;">
 Community: <select name="COMMUNITY"><br>
-  <option value="cnsede">Sede - cnsede</option>
-  <option value="infraero21ebt">Embratel - infraero21ebt</option>
-  <option value="cn1nfr@CQMRGRC">Embratel - cn1nfr@CQMRGRC</option>
-  <option value="cninfra">Embratel - cninfra</option>
-  <option value="cn1nfr@TNL">OI - cn1nfr@TNL</option>
+  <option value="public">Community1</option>
+  <option value="public1">Community2</option>
+  <option value="public2">Community3</option>
 </select><br><br>
 </div>
 
@@ -157,11 +151,9 @@ IP:
 <div id="caixa1" style="display: none;"> 
 Community:
 <select name="COMMUNITY"><br>
-  <option value="cnsede">Sede - cnsede</option>
-  <option value="infraero21ebt">Embratel - infraero21ebt</option>
-  <option value="cn1nfr@CQMRGRC">Embratel - cn1nfr@CQMRGRC</option>
-  <option value="cninfra">Embratel - cninfra</option>
-  <option value="cn1nfr@TNL">OI - cn1nfr@TNL</option>
+  <option value="public">Community1</option>
+  <option value="public1">Community2</option>
+  <option value="public2">Community3</option>
 </select><br><br>
 </div>
 
