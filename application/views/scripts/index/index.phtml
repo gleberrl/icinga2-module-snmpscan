@@ -1,0 +1,19 @@
+<div class="content">
+    <h1>SNMP SCAN</h1>
+<table>
+
+<?php foreach ($this->moreData as $key => $val): ?>
+    <tr><th><?= $key ?></th><td><?= $val ?></td></tr>
+<?php endforeach ?>
+</table>
+<br>
+<form method="post" action="Select.php">
+    <input type="radio" name="Select" value="Interface"> Interface<br>
+    <input type="radio" name="Select" value="Disco"> Disco<br>
+    <input type="radio" name="Select" value="Processo"> Processo<br>
+    <input type="radio" name="Select" value="Servico"> Servico<br><br>
+    <p><input type="submit" name="submit" /></p>
+</form>
+
+</div>
+

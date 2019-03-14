@@ -1,0 +1,10 @@
+Module: SNMP Scan
+Version: 0.0.1
+Description: SNMP Scan module
+ This is a simple snmp disk/interface/process scan with bash and director input.
+Developed: Gleber Ribeiro Leite
+Depends: director
+Depends: net-snmp
+Depends: net-snmp-utils
+Depends: net-snmp-libs
+Date: 2019-01-19
